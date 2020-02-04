@@ -1,3 +1,3 @@
-- [ ] 1. Coding 
-- [ ] 2. Eating
-- [ ] 3. Playing Games
+- [X] 1. Coding 
+- [X] 2. Eating
+- [X] 3. Playing Games
